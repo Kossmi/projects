@@ -18,8 +18,8 @@ The goal is to practice analytical skills, improve coding in Python and SQL, and
    - [File](./project_p1/sql_query_p1.sql)
    - [Tutorial](https://www.youtube.com/watch?v=ChIQjGBI3AM&t=763s)
 2. **Library project**
-   - [File]
-   - [Tutorial]
+   - [File](./project_p2/project_p2_queries_part_1.sql)
+   - [Tutorial](https://www.youtube.com/watch?v=6X2-P9fNVvw&list=WL&index=2&t=3869s)
 
 # Python Projects
 
